@@ -1,0 +1,6 @@
+# general files
+*.pptx
+*.pdf
+
+# directory
+ppt/
