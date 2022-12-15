@@ -1,7 +1,14 @@
 # general files
 *.pptx
 *.pdf
+*.tar
+*.pdb
+*.sh
+*.cif
+*.out
+*.psf
 
 # directory
 ppt/
 reference/
+data/chemical_property/
