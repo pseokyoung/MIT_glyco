@@ -1,4 +1,4 @@
-# general files
+# general file
 *.pptx
 *.pdf
 *.tar
@@ -12,3 +12,6 @@
 ppt/
 reference/
 data/chemical_property/
+
+# certain file
+v4_augmented_dataset_all.csv
