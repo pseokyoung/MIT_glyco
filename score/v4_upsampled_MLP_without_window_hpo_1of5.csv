@@ -1,0 +1,2 @@
+,time,n_layers,n_neurons,loss,val_loss,test_loss,accuracy,precision,recall,f1
+0,2.148,5,292,0.6608381271362305,0.659479022026062,0.649612545967102,61.7,1.71,51.92,3.3000000000000003
