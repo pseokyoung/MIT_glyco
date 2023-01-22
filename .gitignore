@@ -12,6 +12,7 @@
 ppt/
 reference/
 data/chemical_property/
+old/
 
 # certain file
 v4_augmented_dataset_all.csv
